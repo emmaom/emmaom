@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emmaom
+- 👀 I’m interested in developing video games, and tools
+- 🌱 I’m currently learning Python 3.6
